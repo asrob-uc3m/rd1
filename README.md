@@ -5,4 +5,3 @@
 - [Montaje](montaje.md)
 
 ![RD1 robot](/assets/rd1.jpg)
-
