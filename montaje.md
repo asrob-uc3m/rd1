@@ -3,6 +3,9 @@
 [Robot Devastation](http://asrob-uc3m.github.io/workgroups/2017-05-28-robot-devastation.html) robot: RD1
 
 - [Introducción](#introducción)
+- [Trucar servomotores](#trucar-servomotores)
+- [Imprimir en 3D la estructura y las ruedas](#imprimir-en-3D-la-estructura-y-las-ruedas)
+- [Ensamblaje](#ensamblaje)
 
 ![RD1 robot](/assets/rd1.jpg)
 
