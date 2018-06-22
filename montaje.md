@@ -2,10 +2,13 @@
 
 [Robot Devastation](http://asrob-uc3m.github.io/workgroups/2017-05-28-robot-devastation.html) robot: RD1
 
-- [Introducción](#introducción)
-- [Trucar servomotores](#trucar-servomotores)
-- [Imprimir en 3D la estructura y las ruedas](#imprimir-en-3D-la-estructura-y-las-ruedas)
-- [Ensamblaje](#ensamblaje)
+* [Introducción](#introducción)
+* [Trucar servomotores](#trucar-servomotores)
+* [Imprimir en 3D la estructura y las ruedas](#imprimir-en-3d-la-estructura-y-las-ruedas)
+* [Ensamblaje](#ensamblaje)
+* [Montar conexiones eléctricas RPi-servomotores](#montar-conexiones-eléctricas-rpi-servomotores)
+* [Enganchar webcam](#enganchar-webcam)
+* [Instalar Raspbian en SD y rd1-software](#instalar-raspbian-en-sd-y-rd1-software)
 
 ![RD1 robot](/assets/rd1.jpg)
 
