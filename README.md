@@ -4,4 +4,6 @@
 
 - [Montaje](montaje.md)
 
+Prototype status: missing, but have electronics and wheels (in biggest box), so would only need to print chassis.
+
 ![RD1 robot](/assets/rd1.jpg)
